@@ -1,0 +1,9 @@
+@media screen and ( max-width: 1000px ) {
+	#div-nav {
+		width: 1000px;
+	}
+
+	ul {
+		border:1px solid red;	
+	}
+}
